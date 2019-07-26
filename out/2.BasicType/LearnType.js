@@ -22,7 +22,6 @@ function helloWorlsd() {
     alert("Hello World!");
 }
 var x = 1;
-x.toFixed();
 var anyList = [1, false, "test"];
 console.log();
 //# sourceMappingURL=LearnType.js.map
